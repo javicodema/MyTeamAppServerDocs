@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['equals',['equals',['../classcom_1_1javicodema_1_1entities_1_1composite_ids_1_1_games_played_id.html#aeb4700d66372b6f6b00ab69d30565d19',1,'com.javicodema.entities.compositeIds.GamesPlayedId.equals()'],['../classcom_1_1javicodema_1_1entities_1_1composite_ids_1_1_teams_allowed_id.html#a3faf17ca60b72becfccd5fdb302772d9',1,'com.javicodema.entities.compositeIds.TeamsAllowedId.equals()'],['../classcom_1_1javicodema_1_1entities_1_1composite_ids_1_1_teams_into_id.html#ac09a2e0d70b014ead9ddf6bf841f8aa3',1,'com.javicodema.entities.compositeIds.TeamsIntoId.equals()'],['../classcom_1_1javicodema_1_1entities_1_1_games_played.html#ad1c1c42bcbee9b8cbbef59e5185a2e8c',1,'com.javicodema.entities.GamesPlayed.equals()'],['../classcom_1_1javicodema_1_1entities_1_1_teams_allowed.html#a8f79a125063d08e24fbd3db462728fe4',1,'com.javicodema.entities.TeamsAllowed.equals()'],['../classcom_1_1javicodema_1_1entities_1_1_teams_into.html#a12dfb7abba7a1bfb9ed07c6804f51cb3',1,'com.javicodema.entities.TeamsInto.equals()']]],
+  ['errorforbidden',['errorForbidden',['../classcom_1_1javicodema_1_1_responses.html#aa021e058022956045de4b7f52cfdc86c',1,'com::javicodema::Responses']]],
+  ['errornotfound',['errorNotFound',['../classcom_1_1javicodema_1_1_responses.html#aeca565ebc3b2c7edae3a94e16a47ed1b',1,'com::javicodema::Responses']]]
+];
